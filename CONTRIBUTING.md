@@ -1,7 +1,5 @@
 # Contribution Guidelines
 
-I really encourage all software engineers in Indonesia to share their knowledges through blog.
-
 If you want your blog to be exposed here, please pay attention to the following guidelines:
 
 <ul>
