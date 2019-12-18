@@ -14,6 +14,7 @@ If you want your blog to be exposed here, please pay attention to the following 
       <li>Tech stack tutorials or use cases</li>
       <li>AI related topics</li>
       <li>Big data</li>
+      <li>DevOps</li>
       <li>etc.</li>
     </ul>
   </li>
