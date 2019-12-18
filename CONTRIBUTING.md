@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-If you want your blog to be exposed here, please pay attention to the following guidelines:
+Please pay attention to the following guidelines when submitting new blog proposals:
 
 <ul>
   <li>The blog may use either Indonesian or English language</li>
